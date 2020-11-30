@@ -1,3 +1,9 @@
+# st
+This is my build of the simple terminal by suckless.
+
+--------------------------------------------------------------
+
+
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
